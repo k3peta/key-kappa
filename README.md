@@ -1,4 +1,6 @@
 # key-kappa
+[https://](https://github.com/k3peta/key-kappa/blob/main/key-kappa.jpg?raw=true)
+
 神沼三平太が趣味で作った親指レス30キーの自作キーボードのデータです。
 ケースなしPCBにゴム足というチープなやつです。めっちゃ薄い。そして角が痛い。
 名称の由来はGherkinをパクった感じだから。要はキュウリをパクるような奴からの連想で河童です。
