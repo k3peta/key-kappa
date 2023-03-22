@@ -31,7 +31,7 @@ KiCadのデータとガーバーファイルのZIPファイルを置いておい
 
 ## キー配列の解説とカスタマイズ
 
-そのうち書きます。
+![デフォルトのキーマップ画像](https://github.com/k3peta/key-kappa/blob/main/keyboard-layout.png)
 
 ### BLE Micro Pro用のJSNファイルの実験の成果とか
 
