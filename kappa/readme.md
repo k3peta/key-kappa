@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [神沼三平太](https://github.com/神沼三平太)
+* Keyboard Maintainer: [k3peta](https://github.com/k3petga)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
